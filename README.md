@@ -2,7 +2,7 @@
 
 <img src="docs/logo.png" width="90" align="right" />
 
-**A deployed UK construction-compliance platform that turns everyday site messages into audit-ready, tamper-proof safety records.**
+**A deployed UK construction-compliance platform that turns everyday site messages into audit-ready, tamper-evident safety records.**
 
 > This is a **case study**. The production code is private (it's a real product with a pilot). I'm happy to give a walkthrough or read-access on request.
 
